@@ -229,7 +229,6 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/background.jpg") right top;
   background-size: cover;
-  /* background-position: 220px 0px; */
   background-repeat: no-repeat;
   position: relative;
 }
@@ -237,7 +236,6 @@ h1, h2, h3, h4, h5, h6 {
 {
   #hero{
     background-position: center;
-    /* background: red; */
   }
 }
 
